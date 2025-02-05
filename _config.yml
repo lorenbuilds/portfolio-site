@@ -17,11 +17,10 @@ title: "Hello. I'm Loren."
 email: ""
 description: "I'm a shopify developer from Chicago creating useful things for the web."
 baseurl: "portfolio-site" # the subpath of your site, e.g. /blog
-url: "https://lorenwde.github.io/portfolio-site" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://lorenbuilds.github.io/portfolio-site" # the base hostname & protocol for your site, e.g. https://example.com
 
 # Build settings
 markdown: kramdown
-# theme: phantom # Uncomment once published to RubyGems
 plugins:
   - jekyll-paginate
 
