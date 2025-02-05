@@ -1,8 +1,10 @@
 ---
 ---
 
-@import "bootstrap";
-@import "mixins";
+{
+  @import "bootstrap";
+  @import "mixins";
+}
 
 $primary: #0a0a0a;
 $secondary: #ff7b7b;
