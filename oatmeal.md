@@ -10,7 +10,7 @@ featured_image: "/img/posts/your-image.png"
 lead_text: "This is my oatmeal project description"
 ---
 
-![Oatmeal Project](/img/posts/ohavz_image.png)
+<img class="img-responsive" src="{{ site.baseurl }}/img/posts/ohavz_image.png" title="Oatmeal ecommerce website">
 
 <br>
 
