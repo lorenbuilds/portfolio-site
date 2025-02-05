@@ -1,20 +1,8 @@
 ---
 ---
 
-/*--------------------------------------------------------------
->>> TABLE OF CONTENTS:
-----------------------------------------------------------------
-
-1.0 Defaults
-2.0 Home Hero
-  2.1 Contact
-3.0 Posts
-4.0 Footer
-
---------------------------------------------------------------*/
-
-@import "../_sass/bootstrap";
-@import "../_sass/mixins";
+@import "bootstrap";
+@import "mixins";
 
 $primary: #0a0a0a;
 $secondary: #ff7b7b;
