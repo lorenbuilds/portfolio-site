@@ -1,16 +1,26 @@
 ---
 ---
 
-{
-  @import "bootstrap";
-  @import "mixins";
-}
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+
+1.0 Defaults
+2.0 Home Hero
+  2.1 Contact
+3.0 Posts
+4.0 Footer
+
+--------------------------------------------------------------*/
+
+@import "../_sass/bootstrap";
+@import "../_sass/mixins";
 
 $primary: #0a0a0a;
 $secondary: #ff7b7b;
 
-%dm-sans {
-  font-family: "DM Sans", sans-serif;
+%opensans {
+  font-family: "Open Sans", sans-serif;
 }
 %merriweather {
   font-family: "Merriweather", serif;
@@ -27,7 +37,7 @@ $secondary: #ff7b7b;
 }
 
 body {
-  background-color: #fafafa;
+  background-color: #e9edf0;
   @extend %opensans;
   -webkit-font-smoothing: antialiased;
 }
@@ -312,21 +322,6 @@ input.btn {
       background-color: #efebe9;
     }
   }
-}
-
-button.btn.custom-btn {
-  padding: 12px 35px;
-  margin: 2em 0.5em;
-  border: solid 1px #d5e0e7;
-  border-radius: 4px;
-  color: #2e4453;
-  font-weight: 600;
-}
-
-.form-help-text {
-  font-size: 0.9em; /* or you could use 14px */
-  color: #666; /* optional: makes the text slightly muted */
-  margin-bottom: 8px;
 }
 
 // vertically center content of post rows
