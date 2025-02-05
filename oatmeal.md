@@ -2,7 +2,7 @@
 layout: inner
 position: left
 title: "Oatmeal Project"
-permalink: /portfolio-site/oatmeal/
+permalink: https://www.ohvaz.ro/
 categories: development
 tags: Example Demo
 featured_image: "/img/posts/your-image.png"
