@@ -6,7 +6,7 @@ date: 2016-02-20 21:15:00
 categories: development design
 tags: Shopify Liquid HTML CSS
 featured_image: "/img/posts/ohavz_image.png"
-project_link: "/portfolio-site/oatmeal/
+project_link: "https://www.ohvaz.ro/"
 button_text: "Visit Project"
 lead_text: "Figma Mockup to Shopify Theme with Custom Functionalities"
 ---
