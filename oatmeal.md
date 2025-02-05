@@ -2,7 +2,7 @@
 layout: inner
 position: left
 title: "Oatmeal Project"
-permalink: /oatmeal/
+permalink: /portfolio-site/oatmeal/
 categories: development
 tags: Example Demo
 featured_image: "/img/posts/your-image.png"
